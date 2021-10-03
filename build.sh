@@ -3,7 +3,7 @@ rm -rf dist
 mkdir dist
 shopt -s extglob
 cp -r !("dist"|"build.sh") dist/
-zip -r dist.zip dist/
+zip -r redirect-outline.zip dist/
 rm -rf dist
 mkdir dist
-mv dist.zip dist/
+mv edirect-outline.zip dist/
