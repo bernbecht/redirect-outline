@@ -1,12 +1,12 @@
 {
   "name": "Read on Outline.com",
   "description": "Remove paywall using Outline.com in one click",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "scripting", "activeTab"],
   "action": {
     "default_title": "Click to show an alert",
     "default_icon": {
