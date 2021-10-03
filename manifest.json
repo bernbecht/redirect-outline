@@ -1,6 +1,6 @@
 {
   "name": "Read on Outline.com",
-  "description": "In one click it removes paywall by redirecting current tab to Outline.com",
+  "description": "Remove paywall using Outline.com in one click",
   "version": "0.0.0.1",
   "manifest_version": 3,
   "background": {
