@@ -6,4 +6,4 @@ cp -r !("dist"|"build.sh") dist/
 zip -r redirect-outline.zip dist/
 rm -rf dist
 mkdir dist
-mv edirect-outline.zip dist/
+mv redirect-outline.zip dist/
